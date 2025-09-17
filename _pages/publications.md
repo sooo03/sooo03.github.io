@@ -9,7 +9,7 @@ author_profile: true
 <div class="row">
   <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
-      <img src="../images/uniskill.png" alt="main" style="width: 100%; height: auto;">
+      <img src="../images/LAA.png" alt="main" style="width: 100%; height: auto;">
   </div>
   <div class="column right">
     <p>

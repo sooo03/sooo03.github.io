@@ -8,14 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at Hankuk University of Foreign Studies, advised by [Prof. Byunghwan Jeon](https://mi.hufs.ac.kr/). 
-Prior to my Ph.D. studies, I received a B.S. degree from Yonsei University.
+I am a BS.D. student at Hankuk University of Foreign Studies, advised by [Prof. Byunghwan Jeon](https://mi.hufs.ac.kr/). 
 
-My research focuses on **Robot Learning** 🤖 and **Video Understanding** 🎥	.
-I am particularly interested in leveraging <i>in-the-wild</i> human videos to teach robots everyday tasks, starting from simple actions such as pick-and-place and progressing toward more complex behaviors.
-
-Currently, I am working with [Prof. Lerrel Pinto](https://www.lerrelpinto.com) at NYU to address core challenges in using human videos for robot learning.
-I also actively collaborate with [Prof. Youngwoon Lee](https://youngwoon.github.io) on learning from video in robotics.
+My research goal is to develop vision systems that can understand and reason about visual data in a generalizable way. To achieve this, I focus on representation learning, generative modeling, and reinforcement learning for building robust and scalable computer vision models.
 
 <br/>
 

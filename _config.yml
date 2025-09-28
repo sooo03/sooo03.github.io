@@ -7,13 +7,13 @@
 
 # Site Settings
 locale: 'en-US'
-title: 'Hanjung Kim'
+title: 'SoJeong Kim'
 title_separator: '-'
-name: &name 'Hanjung Kim'
-description: &description 'Ph.D. student @ Yonsei University'
-url: https://KimHanjung.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name: &name 'SoJeong Kim'
+description: &description 'BS. student @ Hankuk University Foreign Studies'
+url: https://sooo03.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: '' # the subpath of your site, e.g. "/blog"
-repository: 'KimHanjung/KimHanjung.github.io'
+repository: 'sooo03/sooo03.github.io'
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
 words_per_minute: 160
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name: 'Hanjung Kim'
-  avatar: 'hanjung.jpg'
-  bio: 'Ph.D. student @ Yonsei University'
-  location: 'New York, NY'
+  name: 'Sojeong Kim'
+  avatar: 'sojeong.jpg'
+  bio: 'BS. student @ Hankuk University Foreign Studies'
+  location: 'Yongin, Korea'
   employer:
   pubmed:
-  googlescholar: 'https://scholar.google.com/citations?hl=en&user=-c22oFIAAAAJ'
+  # googlescholar: 'https://scholar.google.com/citations?hl=en&user=-c22oFIAAAAJ'
   email: 'hanjungkim@yonsei.ac.kr'
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
@@ -94,20 +94,19 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: 'KimHanjung'
+  github: 'sooo03'
   google_plus:
   keybase:
   instagram:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  linkedin: 'hanjung-kim-060436191'
+  # linkedin: 'hanjung-kim-060436191'
   orcid:
   pinterest:
   soundcloud:
   stackoverflow: # http://stackoverflow.com/users/123456/username
   steam:
   tumblr:
-  twitter: 'KimD0ing'
   vine:
   weibo:
   xing:

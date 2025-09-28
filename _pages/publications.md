@@ -9,17 +9,17 @@ author_profile: true
 <div class="row">
   <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
-      <img src="../images/uniskill.png" alt="main" style="width: 100%; height: auto;">
+      <img src="../images/LAA.png" alt="main" style="width: 100%; height: auto;">
   </div>
   <div class="column right">
     <p>
-      <b> UniSkill: Imitating Human Videos via Cross-Embodiment Skill Representations </b><br />
-      <span style="font-size:75%;color:grey"> <b>Hanjung Kim$^*$</b>, Jaehyun Kang$^*$, Hyolim Kang, Meedeum Cho, Seon Joo Kim, Youngwoon Lee </span> <br />
-      <span style="font-size:75%"> <b>CoRL 2025</b> </span> <br />
+      <b> 강화학습기반 불완전 조영 좌심방이 전자동 지역화 및 분할 기법 </b><br />
+      <span style="font-size:75%;color:grey"> <b>Sojeong Kim$^*$</b>, Jongum Yoon$^*$, Byunghwan Jeon </span> <br />
+      <span style="font-size:75%"> <b>IPIU 2025</b> </span> <br />
       <span style="font-size:75%">
-        <a href="https://kimhanjung.github.io/UniSkill/">[Project]</a>
-        <a href="https://arxiv.org/pdf/2505.08787">[Paper]</a>
-        <a href="https://github.com/KimHanjung/UniSkill">[Code]</a>
+        <a href="https://">[Project]</a>
+        <a href="https://">[Paper]</a>
+        <a href="https://github.com/">[Code]</a>
       </span>
     </p>
   </div>
@@ -27,6 +27,7 @@ author_profile: true
 
 <br/>
 
+<!--
 <div class="row">
   <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
@@ -47,47 +48,6 @@ author_profile: true
   </div>
 </div>
 
-<br/>
-
-<div class="row">
-  <div style="display: flex; align-items: center;">
-    <div style="flex: 1;">
-      <img src="../images/visage.png" alt="main">
-  </div>
-  <div class="column right">
-    <p>
-      <b> VISAGE: Video Instance Segmentation with Appearance-Guided Enhancement </b><br />
-      <span style="font-size:75%;color:grey"> <b>Hanjung Kim</b>, Jaehyun Kang, Miran Heo, Sukjun Hwang, Seoung Wug Oh, Seon Joo Kim </span> <br />
-      <span style="font-size:75%"> <b>ECCV 2024</b> </span> <br />
-      <span style="font-size:75%">
-        <a href="https://kimhanjung.github.io/VISAGE/">[Project]</a>
-        <a href="https://arxiv.org/pdf/2312.04885.pdf">[Paper]</a>
-        <a href="https://github.com/KimHanjung/VISAGE">[Code]</a>
-      </span>
-    </p>
-  </div>
-</div>
-
-<br/>
-
-<div class="row">
-  <div style="display: flex; align-items: center;">
-    <div style="flex: 1;">
-      <img src="../images/sola.png" alt="main">
-  </div>
-  <div class="column right">
-    <p>
-      <b> Soft-Landing Strategy for Alleviating the Task Discrepancy Problem in Temporal Action Localization Tasks </b><br />
-      <span style="font-size:75%;color:grey"> Hyolim Kang, <b>Hanjung Kim</b>, Joungbin An, Minsu Cho, Seon Joo Kim </span> <br />
-      <span style="font-size:75%"> <b>CVPR 2023</b> </span> 
-      <span style="font-size:75%;color:#E2745C"> Finalist at Qualcomm Innovation Fellowship 2023 </span><br />
-      <span style="font-size:75%">
-        <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Kang_Soft-Landing_Strategy_for_Alleviating_the_Task_Discrepancy_Problem_in_Temporal_CVPR_2023_paper.pdf">[Paper]</a>
-        <a href="https://github.com/musicalOffering/sola">[Code]</a>
-      </span>
-    </p>
-  </div>
-</div>
 
 <br/>
 
@@ -107,3 +67,4 @@ author_profile: true
 
   </p>
 </div>
+-->

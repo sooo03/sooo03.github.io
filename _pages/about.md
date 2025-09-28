@@ -10,9 +10,7 @@ redirect_from:
 
 I am a BS. student at Hankuk University of Foreign Studies, advised by [Prof. Byung Hwan Jeon](https://). 
 
-My research focuses on **Medical Image Processsing** <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0ec64f8d-4895-4393-8a26-18d6281b7d66" />
-, **Generative AI** <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/eb91d678-fe8d-4194-ac9f-dc646360572e" />
-, **Representation Learning** <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/01f76511-6ac4-4b13-bbab-4091a27201d9" />.
+My research focuses on **Medical Image Processsing**, **Generative AI**, **Representation Learning**.
 
 <br/>
 

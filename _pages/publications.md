@@ -19,7 +19,7 @@ author_profile: true
       <span style="font-size:75%">
         <a href="https://">[Project]</a>
         <a href="../files/IPIU2025.pdf" target="_blank">[Paper]</a>
-        <a href="https://github.com/">[Code]</a>
+        <a href="https://">[Code]</a>
       </span>
     </p>
   </div>

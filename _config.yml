@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: 'en-US'
-title: 'SoJeong Kim'
+title: 'Sojeong Kim'
 title_separator: '-'
 name: &name 'SoJeong Kim'
 description: &description 'BS. student @ Hankuk University Foreign Studies'
